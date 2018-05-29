@@ -13,6 +13,9 @@ npm install --save ipstack
 ### Usage
 
 ```js
+
+const ipstack = require('ipstack')
+
 ipstack("8.8.8.8","<your ipstack api key>",(err, response) => {
   console.log(response)
 })

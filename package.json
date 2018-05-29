@@ -1,6 +1,6 @@
 {
   "name": "ipstack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Geolocation based on api stack api package for nodejs",
   "main": "index.js",
   "scripts": {
